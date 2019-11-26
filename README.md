@@ -1,3 +1,4 @@
+![正常大小的圆角矩形](https://img.shields.io/badge/plantform-wechat-green)
 # Saponin 
 
 **Introduce**:This repository is build for Saponin's development which is a wechat program. 

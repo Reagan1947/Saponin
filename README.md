@@ -1,7 +1,7 @@
 ![正常大小的圆角矩形](https://img.shields.io/badge/plantform-wechat-green)
 ![正常大小的圆角矩形](https://img.shields.io/badge/license-GPL--3.0-blue)
 
-# Saponin 
+# Saponin Wechat Program
 
 **Introduce**:This repository is build for Saponin's development which is a wechat program. 
 ## Developemt Schedul

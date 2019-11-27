@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/License-GPL--3.0-blue)
 ![](https://img.shields.io/badge/Language-Python-red)
 
-# Saponin Wechat Program
+# Saponin WeChat Program
 
 **Introduce**:This repository is build for Saponin's development which is a WeChat program. 
 ## Developemt Schedul

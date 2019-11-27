@@ -1,5 +1,5 @@
-![正常大小的圆角矩形](https://img.shields.io/badge/plantform-wechat-green)
-![正常大小的圆角矩形](https://img.shields.io/badge/license-GPL--3.0-blue)
+![正常大小的圆角矩形](https://img.shields.io/badge/Plantform-WeChat-green)
+![正常大小的圆角矩形](https://img.shields.io/badge/License-GPL--3.0-blue)
 
 # Saponin Wechat Program
 
